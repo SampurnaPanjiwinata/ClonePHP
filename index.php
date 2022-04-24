@@ -1,6 +1,6 @@
 <?php
 
-echo "Nama: Sampurna Panjiwinata";
-echo "NIM: 52019034";
-echo "Informatika 2019";
+echo "Nama: Sampurna Panjiwinata <br>";
+echo " NIM: 52019034 <br>";
+echo " Informatika 2019";
 ?>
