@@ -1,3 +1,6 @@
 <?php
 
-echo "hello kakak ahyar ganteng kan ?? ";
+echo "Nama: Sampurna Panjiwinata";
+echo "NIM: 52019034";
+echo "Informatika 2019";
+?>
